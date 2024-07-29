@@ -1,0 +1,3 @@
+title=Atari
+author=Hesam Aghajani
+orientation=portrait

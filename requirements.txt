@@ -1,0 +1,7 @@
+kivy
+kivymd
+buildozer
+cython
+python-for-android
+setuptools
+wheel
